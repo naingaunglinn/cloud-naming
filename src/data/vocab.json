@@ -1,0 +1,74 @@
+{
+   "week_1" : [
+        {
+            "english" : "Listen",            
+            "wordClass" : "verb",
+            "burmese" : "နားထောင်သည်",
+            "pronounciation" : "လစ်ဆင်း   ",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/listen_1.mp3"
+        },
+        {
+            "english" : "Look",            
+            "wordClass" : "verb",
+            "burmese" : "ကြည့်သည်",
+            "pronounciation" : "လွတ်(ခ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/look_2.mp3"
+        },
+        {
+            "english" : "Speak",            
+            "wordClass" : "verb",
+            "burmese" : "ပြောသည်",
+            "pronounciation" : "စပိ(ခ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/speak_1.mp3"
+        },
+        {
+            "english" : "Touch",            
+            "wordClass" : "verb",
+            "burmese" : "ထိသည်",
+            "pronounciation" : "တက်(ချ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/touch_1.mp3"
+        },
+        {
+            "english" : "Write",            
+            "wordClass" : "verb",
+            "burmese" : "ရေးသည်",
+            "pronounciation" : "ရိုက်(ထ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/write_2.mp3"
+        },
+        {
+            "english" : "Read",            
+            "wordClass" : "verb",
+            "burmese" : "ဖတ်သည်",
+            "pronounciation" : "ရိ(ထ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/read_1.mp3"
+        },
+        {
+            "english" : "Smile",            
+            "wordClass" : "verb",
+            "burmese" : "ပြုံးသည်",
+            "pronounciation" : "စမိုင်း(လ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/smile_3.mp3"
+        },
+        {
+            "english" : "Smile",            
+            "wordClass" : "verb",
+            "burmese" : "ပြုံးသည်",
+            "pronounciation" : "စမိုင်း(လ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/smile_3.mp3"
+        },
+        {
+            "english" : "Sleep",            
+            "wordClass" : "verb",
+            "burmese" : "အိပ်သည်",
+            "pronounciation" : "စလိ(ပ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/sleep_1.mp3"
+        },
+        {
+            "english" : "Draw",            
+            "wordClass" : "verb",
+            "burmese" : "ပုံဆွဲသည်",
+            "pronounciation" : "ဒရော(လ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/draw_1.mp3"
+        }
+    ]
+}
