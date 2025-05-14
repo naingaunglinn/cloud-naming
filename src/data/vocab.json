@@ -1,5 +1,5 @@
 {
-   "week_1" : [
+   "actions" : [
         {
             "english" : "Listen",            
             "wordClass" : "verb",
@@ -50,13 +50,6 @@
             "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/smile_3.mp3"
         },
         {
-            "english" : "Smile",            
-            "wordClass" : "verb",
-            "burmese" : "ပြုံးသည်",
-            "pronounciation" : "စမိုင်း(လ်)",
-            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/smile_3.mp3"
-        },
-        {
             "english" : "Sleep",            
             "wordClass" : "verb",
             "burmese" : "အိပ်သည်",
@@ -69,6 +62,27 @@
             "burmese" : "ပုံဆွဲသည်",
             "pronounciation" : "ဒရော(လ်)",
             "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/draw_1.mp3"
+        },
+        {
+            "english" : "Cry",            
+            "wordClass" : "verb",
+            "burmese" : "ငိုသည်",
+            "pronounciation" : "ခရိုင်း(လ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/cry_1.mp3"
+        },
+        {
+            "english" : "Type",            
+            "wordClass" : "verb",
+            "burmese" : "စာရိုက်သည်",
+            "pronounciation" : "တိုက်(ပ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/type_1.mp3"
+        },
+        {
+            "english" : "Eat",            
+            "wordClass" : "verb",
+            "burmese" : "စားသည်",
+            "pronounciation" : "အိ(ထ်)",
+            "audio" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/eat_1.mp3"
         }
     ]
 }

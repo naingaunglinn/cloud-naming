@@ -20,7 +20,7 @@ export default function VocabTabs() {
               selectedWeek === week ? 'bg-blue-500 text-white' : 'bg-gray-200'
             }`}
           >
-            {week.replace('_', ' ').toUpperCase()}
+            {week.toUpperCase()}
           </button>
         ))}
       </div>
